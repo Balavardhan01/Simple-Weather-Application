@@ -13,10 +13,10 @@ A simple weather application built using **HTML**, **CSS**, and **JavaScript**, 
 - OpenWeatherMap API
 
 ## 🚀 Live Demo
-👉 [Click here to view the project](https://balavardhan01.github.io/weather-app/)
+👉 [Click here to view the project](https://balavardhan01.github.io/Simple-Weather-Application/)
 
 ## 📷 Screenshot
-![Weather App Screenshot](screenshot.png)
+![Weather App Screenshot](weather-app.png)
 
 ## 📌 How to Run
 1. Clone the repository
