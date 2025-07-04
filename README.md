@@ -16,7 +16,7 @@ A simple weather application built using **HTML**, **CSS**, and **JavaScript**, 
 👉 [Click here to view the project](https://balavardhan01.github.io/Simple-Weather-Application/)
 
 ## 📷 Screenshot
-![Weather App Screenshot](weather-app.png)
+![Weather App Screenshot](Screenshot 2025-07-04 145534.png)
 
 ## 📌 How to Run
 1. Clone the repository
